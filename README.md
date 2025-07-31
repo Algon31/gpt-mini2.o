@@ -7,8 +7,7 @@
 # 🧠 MiniGPT - Fine-tune GPT-2 on Your Own Book
 
 MiniGPT is a lightweight project that allows you to fine-tune a GPT-2 model on any book (PDF format).
-You can train your own mini-language model using HuggingFace Transformers to generate text in the style or domain of your chosen book.
-This is ideal for learning how GPT models work or building specialized chatbots and text generators.
+You can train your own mini-language model using HuggingFace Transformers to generate text in the style or domain of your chosen book. This is ideal for learning how GPT models work or building specialized chatbots and text generators.
 ---
 
 ## 📦 Features
@@ -20,7 +19,7 @@ This is ideal for learning how GPT models work or building specialized chatbots 
 - Easily customizable
 
 ---
-
+````
 
 ## ⚙️ Setup
 
@@ -29,7 +28,7 @@ This is ideal for learning how GPT models work or building specialized chatbots 
 ```bash
 git clone https://github.com/Algon31/Gpt-mini.git
 cd Gpt-mini
-````
+```
 
 2. Install dependencies:
 
@@ -86,8 +85,9 @@ python train.py
 ```
 
 Checkpoints and final model will be saved in the `models/` folder.
+You can train half and try the model too
 
-u can train half and try the model too
+
 ---
 
 ## ❗ GitHub Push Warning
@@ -107,8 +107,8 @@ data/train_clean.txt
 
 ---
 
-### Step 5: u can now run the generate.py 
-this will give u a mini gpt based on the book
+### Step 5: Finally, You can now run the generate.py 
+this will give you a mini gpt based on the book
 
 
 ## 🧑‍💻 Author
