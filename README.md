@@ -6,7 +6,9 @@
 ```markdown
 # 🧠 MiniGPT - Fine-tune GPT-2 on Your Own Book
 
-MiniGPT is a lightweight project that allows you to fine-tune a GPT-2 model on any book (PDF format). You can train your own mini-language model using HuggingFace Transformers to generate text in the style or domain of your chosen book. This is ideal for learning how GPT models work or building specialized chatbots and text generators.
+MiniGPT is a lightweight project that allows you to fine-tune a GPT-2 model on any book (PDF format).
+You can train your own mini-language model using HuggingFace Transformers to generate text in the style or domain of your chosen book.
+This is ideal for learning how GPT models work or building specialized chatbots and text generators.
 ---
 
 ## 📦 Features
