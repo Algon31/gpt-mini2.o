@@ -1,3 +1,4 @@
 /data
-/models
+/models/book-gpt
+/models/checkpoint-6174
 /raw
